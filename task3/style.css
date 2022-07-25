@@ -1,0 +1,22 @@
+#trafficLight1 {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    background: black;
+    margin-bottom: 10px;
+  }
+
+#trafficLight2 {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    background: black;
+    margin-bottom: 10px;
+  }
+
+#trafficLight3 {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    background: black;
+  }

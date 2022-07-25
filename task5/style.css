@@ -1,0 +1,29 @@
+form {
+    font-size: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    text-align: center;
+}
+
+button {
+    border-radius: 12px;
+    background-color: white;
+    color: black;
+    border: 2px solid black; 
+}
+
+button:hover {
+    box-shadow: 0 2px 6px 0 rgba(0,0,0,0.24), 0 7px 5px 0 rgba(0,0,0,0.19);
+}
+
+p, h2 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+    font-family: 'Times New Roman', Times, serif;
+}
+
+input {
+    width: 240px;
+}

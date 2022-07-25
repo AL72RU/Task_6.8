@@ -1,0 +1,8 @@
+a {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 50px;
+    font-size: 2rem;
+    font-family: 'Times New Roman', Times, serif;
+}

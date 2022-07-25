@@ -1,0 +1,13 @@
+body {
+    display: flex;
+    justify-content: center;
+    font-size: 30px;
+}
+
+li:nth-child(odd) {
+    background: rgb(230, 230, 250); /* Цвет фона нечетной строки */
+}
+
+a { 
+    text-decoration: none; /* Убираем подчеркивание у ссылки */
+} 

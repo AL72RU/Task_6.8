@@ -1,0 +1,8 @@
+p {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 400px;
+    font-size: 2rem;
+    font-family: 'Times New Roman', Times, serif;
+}
